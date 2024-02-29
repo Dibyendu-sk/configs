@@ -12,7 +12,7 @@ loans:
  message: "Welcome to loans service -(local)"
  contactDetails:
    name: "Dibyendu Kar"
-   email: "b@gmail.com"
+   email: "{cipher}ffef7a626e27abe45bcadd9e82e9d1ebfdd8a3518ba6c734439c3c9da49838b0"
  customerCare:
    - (+91) 9101021010
    - (+91) 8288191029
