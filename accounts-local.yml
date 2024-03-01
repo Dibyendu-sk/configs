@@ -12,7 +12,7 @@ accounts:
   message: "Welcome to accounts service -(local)"
   contactDetails:
     name: "Dibyendu Kar"
-    email: "d@gmail.com"
+    email: "ddd@gmail.com"
   customerCare:
-    - (+91) 1291871609
-    - (+91) 3120190816
+    - (+91) 1212121212
+    - (+91) 2121212121
