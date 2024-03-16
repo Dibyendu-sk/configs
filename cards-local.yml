@@ -12,7 +12,7 @@ cards:
   message: "Welcome to cards service -(local)"
   contactDetails:
     name: "Dibyendu Kar"
-    email: "dk@gmail.com"
+    email: "d@gmail.com"
   customerCare:
     - (+91) 9191919191
     - (+91) 8888811111
